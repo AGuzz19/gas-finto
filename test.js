@@ -2,7 +2,7 @@ elements.mio_elemento_personalizzato = {
     name: "Test" // nome
 	color: "#ff0000",       // Colore rosso
     behavior: behaviors.LIQUID,  // Si comporta come un liquido
-    category: "liquids",    // Categoria nel menu
+    category: "Liquids",    // Categoria nel menu
     density: 1000,          // Valore di densità
     state: "liquid",        // Stato (solido/liquido/gas)
     temp: 20,               // Temperatura predefinita
